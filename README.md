@@ -1,3 +1,24 @@
+This is a website to develop or design any kind of website and we are always here for you.
+We Design Your Dream Not Just a Website.
+
+There are total 6 Parent Components:
+1.Home
+2.Admin
+3.login
+4.NotFound
+5.PrivateRoute
+6.ProcessPayment
+
+#NOTE: Home Page Extra Section - There is a side social icon bar.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
