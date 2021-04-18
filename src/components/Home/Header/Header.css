@@ -1,0 +1,8 @@
+.header-background{
+    height: 650px;
+    width: 100%;
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.685), rgba(0, 0, 0, 0.829)), url("../../../images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

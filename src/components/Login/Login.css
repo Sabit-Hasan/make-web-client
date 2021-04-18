@@ -1,0 +1,14 @@
+.social-card{
+    border: 1px solid rgb(119, 226, 19);
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 2px 0px 3px 0px;
+    cursor: pointer;
+}
+
+.login-background{
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(17, 15, 15, 0.767)), url("../../images/marvin-meyer-SYTO3xs06fU-unsplash.jpg");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

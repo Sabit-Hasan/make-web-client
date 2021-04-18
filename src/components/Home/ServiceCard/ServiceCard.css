@@ -1,0 +1,14 @@
+.custom-card {
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.custom-card img{
+    width: 100%;
+}
+
+.custom-card:hover{
+    color: #ffb007 !important;
+}
+
