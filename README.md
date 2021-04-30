@@ -1,5 +1,14 @@
-This is a website to develop or design any kind of website and we are always here for you.
-We Design Your Dream Not Just a Website.
+This is a dynamic multiple-page website. Where users are able to place an order to make
+different types of websites.
+
+Features:
+1. There is an admin panel where the admin can add a new admin.
+2. A manage section where the admin can manage services(CURD operation).
+3.Admin can add new services.
+4.Users can order any services.
+5.User can add a review.
+6.User authentication.
+
 
 There are total 6 Parent Components:
 1.Home
