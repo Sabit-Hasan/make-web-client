@@ -18,8 +18,6 @@ There are total 6 Parent Components:
 5.PrivateRoute
 6.ProcessPayment
 
-#NOTE: Home Page Extra Section - There is a side social icon bar.
-
 
 
 
